@@ -23,11 +23,12 @@ This project implements a **Multi-Layer Perceptron (MLP)** neural network to cla
 - Confusion matrix and classification report included
 - ANN outperforms Logistic Regression baseline
 
-## 📂 Deliverables
+##  Deliverables
 - LinkedIn Post: [add your LinkedIn post link here]
 - GitHub Repo: https://github.com/zaynaleiy-dev/Music-Genre-Classification-using-ANN-MLP-with-GTZAN-dataset
 - Registration No: 23108374
 - Name: Zain Ali
-- Deployed App: https://zainali-music-genre-ann.streamlit.app
+- Deployed App: [link will be added after deployment]
+
 
 
