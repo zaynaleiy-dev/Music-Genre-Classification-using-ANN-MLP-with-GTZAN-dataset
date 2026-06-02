@@ -24,7 +24,7 @@ This project implements a **Multi-Layer Perceptron (MLP)** neural network to cla
 - ANN outperforms Logistic Regression baseline
 
 ##  Deliverables
-- LinkedIn Post: [add your LinkedIn post link here]
+- LinkedIn Post: [https://www.linkedin.com/posts/zain-ali-499bbb288_excited-to-share-my-latest-project-music-activity-7467696019804258304--FXh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXyC_UBImxL1jH4OldACPDUSN0FwIp9XV4]
 - GitHub Repo: https://github.com/zaynaleiy-dev/Music-Genre-Classification-using-ANN-MLP-with-GTZAN-dataset
 - Registration No: 23108374
 - Name: Zain Ali
