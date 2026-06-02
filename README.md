@@ -29,6 +29,7 @@ This project implements a **Multi-Layer Perceptron (MLP)** neural network to cla
 - Registration No: 23108374
 - Name: Zain Ali
 - Deployed App: [https://music-genre-classification-using-ann-mlp-with-gtzan-dataset-2g.streamlit.app/]
+<img width="1173" height="575" alt="image" src="https://github.com/user-attachments/assets/219b9515-aaa5-438f-ac8e-87d08faa69b4" />
 
 
 
