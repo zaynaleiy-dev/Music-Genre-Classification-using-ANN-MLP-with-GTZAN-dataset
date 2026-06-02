@@ -28,7 +28,7 @@ This project implements a **Multi-Layer Perceptron (MLP)** neural network to cla
 - GitHub Repo: https://github.com/zaynaleiy-dev/Music-Genre-Classification-using-ANN-MLP-with-GTZAN-dataset
 - Registration No: 23108374
 - Name: Zain Ali
-- Deployed App: [link will be added after deployment]
+- Deployed App: [https://music-genre-classification-using-ann-mlp-with-gtzan-dataset-2g.streamlit.app/]
 
 
 
